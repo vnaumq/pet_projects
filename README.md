@@ -24,7 +24,8 @@ The projects are done based on my current skills. So if I learn something new an
 <h1 align="center" style="color:White">Pet projects</h1>
 
 Name|Description | Stack
------------|:-------:|:--------: 
+-----------|:-------:|:--------:
+[Bookings](https://github.com/vnaumq/bookings/tree/main) | All data analysis is stored in a jupyter notebook. Only used pandas. I practiced writing code to change columns and calculate other metrics. In some places an alternative solution to the problem is presented.   | python, pandas
 [Exam Scores](https://github.com/vnaumq/EXAM-SCORES)| The dataset Students Performance in Exams is taken from the platform Kaggle. This data set consists of the marks secured by the students in various subjects. Purpose: To understand how students' academic performance is affected by their parents, test preparation, etc. | SQL, python, pandas, matplotlib
 [Fake News](https://github.com/vnaumq/FAKE-NEWS)| The purpose of this study is to see the percentage of fake and true news on a sample of news. And also to find out the names of the most famous liars and the most honest people. Only applied SQL here.| SQL
 [Dashboard Germany](https://github.com/vnaumq/Dashboard-Germany-)|his dashboard is made in Excel with the help of pivot tables. The data is taken from the internet for 8 cities in Germany. The dashboard presents data: revenue by month, shares of regions, categories, top 10 products, customers. There are also slices by year, region and city. Each chart is on a separate pivot table and on a separate sheet . This is for convenience and for quick changes to the dashboard.| Excel
